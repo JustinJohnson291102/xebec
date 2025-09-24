@@ -10,10 +10,10 @@ import OurStory from './pages/OurStory';
 import Services from './pages/Services';
 import B2BMarketing from './pages/B2BMarketing';
 import WebDevelopment from './pages/WebDevelopment';
+import Shopify from './pages/Shopify';
 import Contact from './pages/Contact';
 
 // Placeholder pages (to be implemented)
-const Shopify = () => <div className="pt-20 min-h-screen flex items-center justify-center"><h1 className="text-4xl font-bold">Shopify Page - Coming Soon</h1></div>;
 const Xtrack = () => <div className="pt-20 min-h-screen flex items-center justify-center"><h1 className="text-4xl font-bold">Xtrack Page - Coming Soon</h1></div>;
 const Podcast = () => <div className="pt-20 min-h-screen flex items-center justify-center"><h1 className="text-4xl font-bold">Podcast Page - Coming Soon</h1></div>;
 const GoToMarket = () => <div className="pt-20 min-h-screen flex items-center justify-center"><h1 className="text-4xl font-bold">Go-To-Market Page - Coming Soon</h1></div>;
